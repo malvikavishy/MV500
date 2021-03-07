@@ -35,3 +35,5 @@ PPG (pulse sensor circuit o/p)
 
 Analog Outputs:
 
+
+5 mm and 33 mm
